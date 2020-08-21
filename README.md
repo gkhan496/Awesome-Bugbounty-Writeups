@@ -22,8 +22,8 @@
 
 ## Cross Site Scripting (XSS)
 
-- [From P5 to P2 to 100 BXSS](https://medium.com/@mohameddaher/from-p5-to-p5-to-p2-from-nothing-to-1000-bxss-4dd26bc30a82)
-- [Google Acquisition XSS (Apigee)](https://medium.com/@TnMch/google-acquisition-xss-apigee-5479d7b5dc4)
+- [From P5 to P2 to 100 BXSS](https://medium.com/@mohameddaher/from-p5-to-p5-to-p2-from-nothing-to-1000-bxss-4dd26bc30a82) ++
+- [Google Acquisition XSS (Apigee)](https://medium.com/@TnMch/google-acquisition-xss-apigee-5479d7b5dc4) ^^
 - [DOM-Based XSS at accounts.google.com by Google Voice Extension](http://www.missoumsai.com/google-accounts-xss.html)
 - [XSS on Microsoft.com via Angular Js template injection](https://medium.com/@impratikdabhi/reflected-xss-on-microsoft-com-via-angular-template-injection-2e26d80a7fd8)
 - [Researching Polymorphic Images for XSS on Google Scholar](https://blog.doyensec.com/2020/04/30/polymorphic-images-for-xss.html)
@@ -319,8 +319,8 @@
 
 ## Cross Site Request Forgery (CSRF)
 
-- [How a simple CSRF attack turned into a P1](https://ladysecspeare.wordpress.com/2020/04/05/how-a-simple-csrf-attack-turned-into-a-p1-level-bug/)
-- [How I exploited the json csrf with method override technique](https://medium.com/@secureITmania/how-i-exploit-the-json-csrf-with-method-override-technique-71c0a9a7f3b0)
+- [How a simple CSRF attack turned into a P1](https://ladysecspeare.wordpress.com/2020/04/05/how-a-simple-csrf-attack-turned-into-a-p1-level-bug/) ++
+- [How I exploited the json csrf with method override technique](https://medium.com/@secureITmania/how-i-exploit-the-json-csrf-with-method-override-technique-71c0a9a7f3b0) ++
 - [How I found CSRF(my first bounty)](https://medium.com/@rajeshranjan457/how-i-csrfd-my-first-bounty-a62b593d3f4d)
 - [Exploiting websocket application wide XSS and CSRF](https://medium.com/@osamaavvan/exploiting-websocket-application-wide-xss-csrf-66e9e2ac8dfa)
 - [Site wide CSRF on popular program](https://fellchase.blogspot.com/2020/02/site-wide-csrf-on-popular-program.html)
@@ -396,10 +396,10 @@
 
 ## Local File Inclusion (LFI)
 
-- [RFI LFI Writeup](http://hassankhanyusufzai.com/RFI_LFI_writeup/)
-- [My first LFI](https://cyberzombie.in/my-first-lfi/)
-- [Bug bounty LFI at Google.com](https://medium.com/@vulnerabilitylabs/bug-bounty-lfi-at-google-com-3c2e17d8c912)
-- [Google LFI on production servers in redacted.google.com](https://omespino.com/write-up-google-bug-bounty-lfi-on-production-servers-in-redacted-google-com-13337-usd/)
+- [RFI LFI Writeup](http://hassankhanyusufzai.com/RFI_LFI_writeup/)++
+- [My first LFI](https://cyberzombie.in/my-first-lfi/)++
+- [Bug bounty LFI at Google.com](https://medium.com/@vulnerabilitylabs/bug-bounty-lfi-at-google-com-3c2e17d8c912)++
+- [Google LFI on production servers in redacted.google.com](https://omespino.com/write-up-google-bug-bounty-lfi-on-production-servers-in-redacted-google-com-13337-usd/)++
 - [LFI to 10 server pwn](https://nirmaldahal.com.np/lfi-to-10-server-pwn/)
 - [LFI in apigee portals](https://offensi.com/2019/01/31/lfi-in-apigee-portals/)
 - [Chain the bugs to pwn an organisation LFI unrestricted file upload to RCE](https://medium.com/@armaanpathan/chain-the-bugs-to-pwn-an-organisation-lfi-unrestricted-file-upload-remote-code-execution-93dfa78ecce)
@@ -412,8 +412,8 @@
 
 ## Subdomain Takeover 
 
-- [How I bought my way to subdomain takeover on tokopedia](https://medium.com/bugbountywriteup/how-i-bought-my-way-to-subdomain-takeover-on-tokopedia-8c6697c85b4d)
-- [Subdomain Takeover via pantheon](https://smaranchand.com.np/2019/12/subdomain-takeover-via-pantheon/)
+- [How I bought my way to subdomain takeover on tokopedia](https://medium.com/bugbountywriteup/how-i-bought-my-way-to-subdomain-takeover-on-tokopedia-8c6697c85b4d)++
+- [Subdomain Takeover via pantheon](https://smaranchand.com.np/2019/12/subdomain-takeover-via-pantheon/)++
 - [Subdomain takeover : a unique way](https://www.mohamedharon.com/2019/11/subdomain-takeover-via.html)
 - [Escalating subdomain takeover to steal sensitive stuff](https://blog.takemyhand.xyz/2019/05/escalating-subdomain-takeovers-to-steal.html)
 - [Subdomain takeover awarded 200](https://medium.com/@friendly_/subdomain-takeover-awarded-200-8296f4abe1b0)
